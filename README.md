@@ -26,4 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e-kose&theme=dark" alt="e-kose" /></p>
 
-![snake gif](https://github.com/e-kose/e-kose/blob/output/github-contribution-grid-snake.gif)
