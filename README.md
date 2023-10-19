@@ -21,6 +21,6 @@
 
 <p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top- langs?username=e-kose&show_icons=true&theme=tokyonight&locale=tr&layout=compact" alt = "e-kose" /></p> <p> <img align = "center" src = "https://
 
-github- readme-stats.vercel.app/api?username=e-kose&show_icons=true&theme=gruvbox&locale=tr" alt = "e-kose" /></p>
+github- readme-stats.vercel.app/api?username=e-kose&show_icons=true&theme=cobalt&locale=tr" alt = "e-kose" /></p>
 
 <p><img align = "center" src = "https: //github-readme-streak-stats.herokuapp.com/?user=e-kose&theme=dark" alt="e-kose" /></p>
