@@ -1,4 +1,4 @@
-https://w0.peakpx.com/wallpaper/803/63/HD-wallpaper-the-board-blue-circuit-logic-tron.jpg
+[![MasterHead](https://w0.peakpx.com/wallpaper/803/63/HD-wallpaper-the-board-blue-circuit-logic-tron.jpg)
 <h1 align="center">Hi 👋, I'm Ertuğrul</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-kose&label=Profile%20views&color=0e75b6&style=plastic" alt="e-kose" /> </p>
 
