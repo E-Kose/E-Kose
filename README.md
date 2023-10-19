@@ -1,4 +1,4 @@
-[![MasterHead](https://images2.alphacoders.com/985/985381.jpg)
+![MasterHead](https://realpython.com/cdn-cgi/image/width=960,format=auto/https://files.realpython.com/media/Introduction-to-C-for-Python-Programmers_Watermarked.94e5e6d8e7cb.jpg)
 <h1 align="center">Hi 👋, I'm Ertuğrul</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-kose&label=Profile%20views&color=0e75b6&style=plastic" alt="e-kose" /> </p>
 
