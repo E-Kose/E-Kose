@@ -33,8 +33,5 @@
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left "> <a href = "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target = "_blank" rel = "noreferrer"> <img src= "https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt = "objectivec" width = "40" height = "40"/> </a> </p> <p>
 
-  ;<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=e-kose&show_icons=true&locale=en" alt = "e-kose" /></p>
-
-<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=e-kose&theme=dark" alt = "e-kose" /></p >
 
 
