@@ -19,7 +19,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-"https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target = "_blank" rel = "noreferrer"> <img src= "https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt = "objectivec" width = "40" height = "40"/> </a> </p> <p>
 </p>
 
 
@@ -30,10 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e-kose&theme=dark" alt="e-kose" /></p>
 
-
-
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left "> <a href = "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target = "_blank" rel = "noreferrer"> <img src= "https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt = "objectivec" width = "40" height = "40"/> </a> </p> <p>
-
-
-
+<p> <img align = "center" src = "https://github-readme -stats.vercel.app/api?username=e-kose&show_icons=true&theme=dark&locale=tr" alt="e-kose" /></p>
