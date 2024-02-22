@@ -28,5 +28,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e-kose&theme=dark" alt="e-kose" /></p>
-
-<p> <img align = "center" src = "https://github-readme -stats.vercel.app/api?username=e-kose&show_icons=true&theme=dark&locale=tr" alt="e-kose" /></p>
+<p><img align = "center" src = "https://github-readme-streak -stats.herokuapp.com/?user=e-kose&theme=dark" alt="e-kose" /></p>
