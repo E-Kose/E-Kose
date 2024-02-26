@@ -22,7 +22,7 @@
 </p>
 
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ekose?1337Badge=off&42Network=off&UM6P=off" alt="ekose's 42 stats" /></a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-kose&show_icons=true&theme=tokyonight&locale=tr&layout=compact" alt="e-kose" /></p>
 
