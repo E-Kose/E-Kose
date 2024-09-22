@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ertuğrul</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-kose&label=Profile%20views&color=0e75b6&style=plastic" alt="e-kose" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=e-kose" alt="e-kose" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh?username=e-kose" alt="e-kose" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
