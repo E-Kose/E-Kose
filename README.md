@@ -82,6 +82,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=e-kose&show_icons=true&theme=dark" alt="Ertuğrul's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e-kose&show_icons=true&theme=dark&locale=tr&layout=compact" alt="e-kose" />
 </p>
 
 <p align="left">
@@ -89,5 +90,4 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e-kose&show_icons=true&theme=dark&locale=tr&layout=compact" alt="e-kose" />
 </p>
