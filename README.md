@@ -20,7 +20,7 @@
   </a>
 </p>
 
-
+[![ekose's 42 stats](https://badge.mediaplus.ma/<Binary>/<ekose>)](https://github.com/oakoudad/badge42)
 <div align="center">
 <h3 align="center">Languages and Tools:</h3>
 
@@ -60,6 +60,6 @@
 
 ![Ertuğrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-kose&show_icons=true&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e-kose&theme=dark" alt="e-kose" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=e-kose&theme=dark" alt="e-kose" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-kose&show_icons=true&theme=dark&locale=tr&layout=compact" alt="e-kose" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-kose&show_icons=true&theme=dark&locale=tr&layout=compact" alt="e-kose" /></p>
