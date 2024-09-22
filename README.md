@@ -9,12 +9,17 @@
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-  <a href="mailto:ertugrulkose1235@gmail.com" style="text-decoration: none; color: #ffffff;">
+  <a href="mailto:ertugrulkose1235@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-ertugrulkose1235@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/ertugrul-kose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertugrul-kose" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kosekose79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kosekose79" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ertugrul-kose" target="_blank" style="margin-left: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/kosekose79" target="_blank" style="margin-left: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
 </p>
+
 
 <div align="center">
 <h3 align="center">Languages and Tools:</h3>
