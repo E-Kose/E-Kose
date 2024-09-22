@@ -76,18 +76,18 @@
 </p>
 </div>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ekose?1337Badge=off" alt="ekose's 42 stats" /></a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e-kose&show_icons=true&theme=dark&locale=tr&layout=compact" alt="e-kose" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=e-kose&theme=dark" alt="e-kose" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=e-kose&show_icons=true&theme=dark" alt="Ertuğrul's GitHub stats"/>
 </p>
