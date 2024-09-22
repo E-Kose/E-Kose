@@ -8,7 +8,13 @@
 
 - 🌱 I’m currently learning **C**
 
-- 📫 How to reach me **ertugrulkose1235@gmail.com**
+<h3 align="center">Contact Me:</h3>
+<p align="center">
+  <a href="mailto:ertugrulkose1235@gmail.com" style="text-decoration: none; color: #ffffff;">
+    <img src="https://img.shields.io/badge/Email-ertugrulkose1235@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
