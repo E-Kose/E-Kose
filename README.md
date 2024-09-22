@@ -38,6 +38,9 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://www.shutterstock.com/shutterstock/photos/2032420412/display_1500/stock-vector-oop-object-oriented-programming-acronym-business-concept-background-vector-illustration-2032420412.jpg" target="_blank" rel="noreferrer">
+      <img src="https://www.shutterstock.com/shutterstock/photos/2032420412/display_1500/stock-vector-oop-object-oriented-programming-acronym-business-concept-background-vector-illustration-2032420412.jpg" alt="oop" width="40" height="40"/>
+    </a>
 </p>
 
 ![Ertuğrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-kose&show_icons=true&theme=dark)
