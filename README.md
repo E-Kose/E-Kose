@@ -20,7 +20,7 @@
   </a>
 </p>
 
-[![ekose's 42 stats](https://badge.mediaplus.ma/<Binary>/<ekose>)](https://github.com/oakoudad/badge42)
+[![ekose's 42 stats](https://badge.mediaplus.ma/binary/ekose)](https://github.com/oakoudad/badge42)
 <div align="center">
 <h3 align="center">Languages and Tools:</h3>
 
