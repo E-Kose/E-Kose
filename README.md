@@ -12,14 +12,10 @@
   <a href="mailto:ertugrulkose1235@gmail.com" style="text-decoration: none; color: #ffffff;">
     <img src="https://img.shields.io/badge/Email-ertugrulkose1235@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/ertugrul-kose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertugrul-kose" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ertugrul-kose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertugrul-kose" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kosekose79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kosekose79" height="30" width="40" /></a>
 </p>
+
 <div align="center">
 <h3 align="center">Languages and Tools:</h3>
 
