@@ -60,9 +60,8 @@
 <img src="https://www.shutterstock.com/shutterstock/photos/2032420412/display_1500/stock-vector-oop-object-oriented-programming-acronym-business-concept-background-vector-illustration-2032420412.jpg" alt="oop" width="40" height="40"/>
 </a>
 </p>
-<p align="center">
+
 ![Ertuğrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-kose&show_icons=true&theme=dark)
-<p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=e-kose&theme=dark" alt="e-kose" /></p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-kose&show_icons=true&theme=dark&locale=tr&layout=compact" alt="e-kose" /></p>
