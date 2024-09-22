@@ -40,7 +40,7 @@
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
 </p>
 
-![Ertuğrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-kose&show_icons=true&theme=transparent)
+![Ertuğrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-kose&show_icons=true&theme=dark)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-kose&show_icons=true&theme=tokyonight&locale=tr&layout=compact" alt="e-kose" /></p>
