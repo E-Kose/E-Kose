@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **ertugrulkose1235@gmail.com**
 
-![LinkedIn Article Cover](https://media.licdn.com/dms/image/v2/D4D12AQG7FHyRGR1mRg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1661493497844?e=2147483647&v=beta&t=SCJf_n-JishzOROeGqlypiw2GpXLVPoUTeNMrKcbMFs)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ertugrul-kose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertugrul-kose" height="30" width="40" /></a>
@@ -30,7 +28,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogomark.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://media.licdn.com/dms/image/v2/D4D12AQG7FHyRGR1mRg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1661493497844?e=2147483647&v=beta&t=SCJf_n-JishzOROeGqlypiw2GpXLVPoUTeNMrKcbMFs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogomark.svg" alt="numpy" width="40" height="40"/> </a>
 </p>
 </div>
 
