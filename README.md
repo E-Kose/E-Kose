@@ -77,7 +77,7 @@
 </div>
 
 <p align="center">
-  [![ekose's 42 stats](https://badge.mediaplus.ma/binary/ekose)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ekose?1337Badge=off" alt="ekose's 42 stats" /></a>
 </p>
 
 <p align="center">
