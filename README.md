@@ -76,7 +76,7 @@
 </p>
 </div>
 
-<p align="center">
+<p align="leftr">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ekose?1337Badge=off" alt="ekose's 42 stats" /></a>
 </p>
 
